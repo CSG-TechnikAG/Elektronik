@@ -1,1 +1,3 @@
-- "Moving Head (MH) Spot": Hero Spot 90
+- "Moving Head (MH) Spot": Varytec Hero Spot 90
+- "Moving Head (MH) Beam": Stairville MH-100 Beam
+- "Moving Head (MH) Wash": Stairville MH-110 Wash
