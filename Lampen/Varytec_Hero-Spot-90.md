@@ -7,7 +7,7 @@
     - Master / Slave
     - automatische Programme
     - Musiksteuerung
-- Strom Eingang: Power Twist
+- Strom Eingang: powerCON
 - Lichtleistung: 45700 Lux @ 1 m
 - Gewicht: 7,2 kg
 - Abmessungen (B x H x T): 268 x 382 x 255 mm
