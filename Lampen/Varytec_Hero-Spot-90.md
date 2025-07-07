@@ -1,6 +1,7 @@
 # Generell
 
 - Leistungsaufnahme: 120 W
+- Leistung: ? W
 - Ansteuerung
     - DMX 16 Kanäle (optional 6)
     - Master / Slave
@@ -20,3 +21,5 @@
 - zwei Gobo-Räder (6 rotierbare Gobos + offen + 8 statische Gobos + offen)
 - Farbrad mit 7 Farben + weiß
 - Gobo Flow
+
+# Kanäle
