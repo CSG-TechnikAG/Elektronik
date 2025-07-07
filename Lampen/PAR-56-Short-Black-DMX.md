@@ -1,16 +1,20 @@
-# Generell
+# PAR 56 Short Black DMX (Marke unbekannt)
+
+## Generell
 
 - Leistungsaufnahme: ? W
 - Leistung: ? W
 - Ansteuerung
-    - DMX 6 Kanäle
-    - automatische Programme
+  - DMX 6 Kanäle (XLR 3-Pin)
+  - automatische Programme
 - Strom Eingang: Festinstalliert
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: ? kg
 - Abmessungen (B x H x T): ? x ? x ? mm
 
-# Kanäle
+## Spezifisch
+
+## Kanäle
 
 1. Rot
 2. Grün
