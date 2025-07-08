@@ -21,3 +21,32 @@
 - inklusive IR Fernbedienung zur Steuerung der wichtigsten Funktionen
 
 ## Kanäle
+
+1. Derby-Effekt:
+2. Strobe:
+   - 000 - 005: Ohne
+   - 006 - 255: Geschwindigkeit (niedrig zu hoch)
+3. Motor:
+   - 000 - 000: Keine
+   - 001 - 127: Feste Position
+   - 128 - 255: Rotation
+4. Weiße LED Strobe:
+   - 000 - 009: Ohne
+   - 010 - 019: Pattern 1
+   - 020 - 029: Pattern 2
+   - 030 - 039: Pattern 3
+   - 040 - 049: Pattern 4
+   - 050 - 059: Pattern 5
+   - 060 - 069: Pattern 6
+   - 070 - 079: Pattern 7
+   - 080 - 089: Pattern 8
+   - 090 - 099: Pattern 9
+   - 100 - 109: Pattern 10
+   - 110 - 119: Pattern 11
+   - 120 - 129: Pattern 12
+   - 130 - 139: Pattern 13
+   - 140 - 149: Pattern 14
+   - 150 - 159: Pattern 15
+   - 160 - 169: Pattern 16
+   - 170 - 179: Pattern 17
+   - 180 - 255: Volle Helligkeit, ohne Strobo

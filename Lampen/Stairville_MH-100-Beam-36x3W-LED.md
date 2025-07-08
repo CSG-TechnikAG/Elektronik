@@ -46,7 +46,7 @@
    - 015 - 255: 28 vorprogrammierte Farben
 13. Strobe:
    - 000 - 009: Aus
-   - 010 - 140: Geschwindigkeit ansteigend
+   - 010 - 140: Geschwindigkeit (niedrig zu hoch)
    - 141 - 255: Geschwindigkeit zufällig
 14. Besondere Funktionen:
    - 000 - 099: Ohne
