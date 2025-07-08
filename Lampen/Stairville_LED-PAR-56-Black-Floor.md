@@ -13,7 +13,7 @@
 - Gewicht: 1,4 kg
 - Abmessungen (? x ? x ?): 325 x 236 x 223 mm
 
-## Spezifisch
+## SpeziFisch
 
 - 151 LEDs: 51x rot, 49x grün, 51x blau
 - mit Doppelbügel zum einfachen Aufstellen am Boden
