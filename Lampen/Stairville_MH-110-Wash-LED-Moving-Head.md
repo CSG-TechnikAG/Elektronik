@@ -5,10 +5,10 @@
 - Leistungsaufnahme: 108 W
 - Leistung: 70 W
 - Ansteuerung
-   - DMX 14 Kanäle (optional 9) (XLR 3-Pin)
-   - Master / Slave
-   - automatische Programme
-   - Musiksteuerung
+  - DMX 14 Kanäle (optional 9) (XLR 3-Pin)
+  - Master / Slave
+  - automatische Programme
+  - Musiksteuerung
 - Strom Eingang: powerCON
 - Lichtleistung: 17000 Lux @ 1 m
 - Gewicht: 5,9 kg

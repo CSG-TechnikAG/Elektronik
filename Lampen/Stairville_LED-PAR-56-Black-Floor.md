@@ -5,9 +5,9 @@
 - Leistungsaufnahme: 16 W
 - Leistung: ? W
 - Ansteuerung
-   - DMX 5 Kanäle (XLR 3-Pin)
-   - automatische Programme
-   - Musiksteuerung
+  - DMX 5 Kanäle (XLR 3-Pin)
+  - automatische Programme
+  - Musiksteuerung
 - Strom Eingang: Festinstalliert
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: 1,4 kg

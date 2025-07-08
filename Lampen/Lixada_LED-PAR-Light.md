@@ -5,9 +5,9 @@
 - Leistungsaufnahme: 15 W
 - Leistung: ? W
 - Ansteuerung
-   - DMX 8 Kanäle (XLR 3-Pin)
-   - Master / Slave
-   - automatische Programme
+  - DMX 8 Kanäle (XLR 3-Pin)
+  - Master / Slave
+  - automatische Programme
 - Strom Eingang: Festinstalliert
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: 0,388 kg

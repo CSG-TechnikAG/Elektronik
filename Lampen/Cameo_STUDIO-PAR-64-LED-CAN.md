@@ -5,10 +5,10 @@
 - Leistungsaufnahme: 55 W
 - Leistung: ? W
 - Ansteuerung
-   - DMX 9 Kanäle (optional 2, 3, 3, 6) (XLR 3-Pin)
-   - Master / Slave
-   - automatische Programme
-   - Musiksteuerung
+  - DMX 9 Kanäle (optional 2, 3, 3, 6) (XLR 3-Pin)
+  - Master / Slave
+  - automatische Programme
+  - Musiksteuerung
 - Strom Eingang: powerCON
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: ? kg
@@ -24,50 +24,54 @@
 - Verstellbarer Doppelbügel
 
 ## Kanäle
+
 ### 2-Kanal-DMX-Modus
+
 1. Dimmer
 2. Farben
- - 000 - 016 Rot
- - 017 - 033 Grün
- - 034 - 050 Blau
- - 051 - 067 White
- - 068 - 084 Bernstein
- - 085 - 101 UV
- - 102 - 118 Gelb
- - 119 - 135 Cyan
- - 136 - 152 Lavendel
- - 153 - 169 Hellgrün
- - 170 - 186 Magenta
- - 187 - 203 Türkis
- - 204 - 220 Orange
- - 221 - 237 kaltes Weiß
- - 238 - 255 Warmes Weiß
+   - 000 - 016 Rot
+   - 017 - 033 Grün
+   - 034 - 050 Blau
+   - 051 - 067 White
+   - 068 - 084 Bernstein
+   - 085 - 101 UV
+   - 102 - 118 Gelb
+   - 119 - 135 Cyan
+   - 136 - 152 Lavendel
+   - 153 - 169 Hellgrün
+   - 170 - 186 Magenta
+   - 187 - 203 Türkis
+   - 204 - 220 Orange
+   - 221 - 237 kaltes Weiß
+   - 238 - 255 Warmes Weiß
 
 ### 3-Kanal-DMX-Modus
+
 1. Dimmer
 2. Stroboskop
 3. Farben
- - 000 - 004 Blackout (kein Licht)
- - 005 - 010 Rot
- - 011 - 015 Grün
- - 016 - 020 Blau
- - 021 - 025 Weiß
- - 026 - 030 Bernstein
- - 031 - 035 UV
- - 036 - 040 Gelb
- - 041 - 045 Cyan
- - 046 - 050 Lavendel
- - 051 - 055 Hellgrün
- - 056 - 060 Magenta
- - 061 - 065 Türkis
- - 066 - 070 Orange
- - 071 - 075 kaltes Weiß
- - 076 - 080 warmes Weiß
- - 081 - 150 Farbwechsel (Geschwindigkeit ansteigend)
- - 151 - 220 Farbübergang (Geschwindigkeit ansteigend)
- - 221 - 255 Musiksteuerung
+   - 000 - 004 Blackout (kein Licht)
+   - 005 - 010 Rot
+   - 011 - 015 Grün
+   - 016 - 020 Blau
+   - 021 - 025 Weiß
+   - 026 - 030 Bernstein
+   - 031 - 035 UV
+   - 036 - 040 Gelb
+   - 041 - 045 Cyan
+   - 046 - 050 Lavendel
+   - 051 - 055 Hellgrün
+   - 056 - 060 Magenta
+   - 061 - 065 Türkis
+   - 066 - 070 Orange
+   - 071 - 075 kaltes Weiß
+   - 076 - 080 warmes Weiß
+   - 081 - 150 Farbwechsel (Geschwindigkeit ansteigend)
+   - 151 - 220 Farbübergang (Geschwindigkeit ansteigend)
+   - 221 - 255 Musiksteuerung
 
-### 9-Kanal-DMX-Modus (ÜBERSETZUNG VON GAMNINGX FOLGT!)
+### 9-Kanal-DMX-Modus
+
 1. Master Dimmer
 2. Stroboscope
 3. Red
