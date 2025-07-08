@@ -5,8 +5,8 @@
 - Leistungsaufnahme: ? W
 - Leistung: ? W
 - Ansteuerung
-  - DMX 6 Kanäle (XLR 3-Pin)
-  - automatische Programme
+   - DMX 6 Kanäle (XLR 3-Pin)
+   - automatische Programme
 - Strom Eingang: Festinstalliert
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: ? kg

@@ -5,10 +5,10 @@
 - Leistungsaufnahme: 55 W
 - Leistung: ? W
 - Ansteuerung
-  - DMX 9 Kanäle (optional 2, 3, 3, 6) (XLR 3-Pin)
-  - Master / Slave
-  - automatische Programme
-  - Musiksteuerung
+   - DMX 9 Kanäle (optional 2, 3, 3, 6) (XLR 3-Pin)
+   - Master / Slave
+   - automatische Programme
+   - Musiksteuerung
 - Strom Eingang: powerCON
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: ? kg
