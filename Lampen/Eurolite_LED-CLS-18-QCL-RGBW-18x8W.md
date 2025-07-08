@@ -47,7 +47,7 @@
    - 220 - 229: PR. 7
    - 230 - 239: 4 Farben musikgesteuert
    - 240 - 255: 15 Farben musikgesteuert
-2. Dimmer
+2. Master Dimmer
 3. Flash
 4. Rot1
 5. Grün1
