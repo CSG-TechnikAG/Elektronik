@@ -14,7 +14,7 @@
 - Gewicht: 5,9 kg
 - Abmessungen (H x B x T): 320 x 260 x 148 mm
 
-## Spezifisch
+## SpeziFisch
 
 - Lichtquelle: 7 Stück 10 W RGBW CREE LED
 - Abstrahlwinkel: 15°
