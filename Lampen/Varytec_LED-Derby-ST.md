@@ -15,7 +15,7 @@
 - Abstrahlwinkel: 140°
 - Abmessungen (B x H x T): 190 x 258 x 182 mm
 
-## Spezifisch
+## SpeziFisch
 
 - Leuchtmittel: 4x 3 W RGBW-LEDs, 16 weiße LEDs
 - Schutzart: IP20
