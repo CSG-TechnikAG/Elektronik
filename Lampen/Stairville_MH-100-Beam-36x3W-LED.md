@@ -14,7 +14,7 @@
 - Gewicht: 4,9 kg
 - Abmessungen (H x B x T): 320 x 260 x 148 mm
 
-## Spezifisch
+## SpeziFisch
 
 - Lichtquelle: 36 Stück 3 W CREE LEDs (8x Rot, 10x Grün, 10x Blau & 8x Weiß)
 - Optik: Abstrahlwinkel 8°
