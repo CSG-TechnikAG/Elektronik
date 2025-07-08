@@ -14,7 +14,7 @@
 - Gewicht: 5 kg
 - Abmessungen (L x B x H): 170 x 340 x 220 mm
 
-## Spezi-Fisch
+## SpeziFisch
 
 - 18 x 4in1-LED in den Farben rot, grün, blau und weiß
 - LED-Anzeige und vier Bedientasten
