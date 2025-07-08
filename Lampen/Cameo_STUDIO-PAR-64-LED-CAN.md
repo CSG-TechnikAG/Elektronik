@@ -34,22 +34,22 @@
 7. Amber
 8. UV
 9. Colour Macros:
-  - 000 - 004: Blackout / Colour Mixing CH3 - CH8
-  - 005 - 010: Red
-  - 011 - 015: Green
-  - 016 - 020: Blue
-  - 021 - 025: White
-  - 026 - 030: Amber
-  - 031 - 035: UV
-  - 036 - 040: Yellow
-  - 041 - 045: Cyan
-  - 046 - 050: Lavender
-  - 051 - 055: Light Green
-  - 056 - 060: Magenta
-  - 061 - 065: Turqoise
-  - 066 - 070: Orange
-  - 071 - 075: Cold White
-  - 076 - 080: Warm White
-  - 081 - 150: Colour Change (rate)
-  - 151 - 220: Colour Blending (rate)
-  - 221 - 255: Music control (microphone sensitivity)
+   - 000 - 004: Blackout / Colour Mixing CH3 - CH8
+   - 005 - 010: Red
+   - 011 - 015: Green
+   - 016 - 020: Blue
+   - 021 - 025: White
+   - 026 - 030: Amber
+   - 031 - 035: UV
+   - 036 - 040: Yellow
+   - 041 - 045: Cyan
+   - 046 - 050: Lavender
+   - 051 - 055: Light Green
+   - 056 - 060: Magenta
+   - 061 - 065: Turqoise
+   - 066 - 070: Orange
+   - 071 - 075: Cold White
+   - 076 - 080: Warm White
+   - 081 - 150: Colour Change (rate)
+   - 151 - 220: Colour Blending (rate)
+   - 221 - 255: Music control (microphone sensitivity)
