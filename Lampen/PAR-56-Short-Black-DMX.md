@@ -12,7 +12,7 @@
 - Gewicht: ? kg
 - Abmessungen (B x H x T): ? x ? x ? mm
 
-## Spezifisch
+## SpeziFisch
 
 ## Kanäle
 
