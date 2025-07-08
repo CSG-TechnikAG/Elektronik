@@ -14,7 +14,7 @@
 - Gewicht: 7,2 kg
 - Abmessungen (B x H x T): 268 x 382 x 255 mm
 
-## Spezifisch
+## SpeziFisch
 
 - Abstrahlwinkel: 15°
 - motorisierter Focus
