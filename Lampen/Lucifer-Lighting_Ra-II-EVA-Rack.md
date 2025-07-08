@@ -10,7 +10,7 @@
 - Gewicht: 14 kg
 - Abmessungen (B x H x T): 19" x 3HE x 320 mm = 483 x 132 x 320
 
-## Spezifisch
+## Spezi-Fisch
 
 - Schutzart IP20
 - DMX Adresse mit Drehcodierschalter einstellbar
