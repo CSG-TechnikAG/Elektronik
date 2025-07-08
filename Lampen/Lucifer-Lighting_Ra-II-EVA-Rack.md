@@ -17,3 +17,5 @@
 - Einbau in 19" Schränke oder freistehend
 
 ## Kanäle
+
+1 - 6: Dimmer Kanäle

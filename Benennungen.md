@@ -7,7 +7,7 @@
 - "LED Derby": Varytec LED Derby ST
 - "LED (Neu)": Cameo STUDIO PAR 64 LED CAN
 - "Dimmer Box (Neu)": Lucifer-Lighting Ra II EVA Rack (?)
-- "Dimmer Box Alt": ?
+- "Dimmer Box Alt": Stairville ?
 - "Fluter": Eurolite LED CLS-18 QCL RGBW 18x8W
 - "Moving Head (MH) Spot": Varytec Hero Spot 90
 - "Moving Head (MH) Beam": Stairville MH-100 Beam 36x3W LED

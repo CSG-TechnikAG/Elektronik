@@ -19,6 +19,9 @@
 1. Rot
 2. Grün
 3. Blau
-4. Farbwähler
+4. Colour Macro:
+   - ?
+   - ?
+   - ?
 5. Strobe
 6. Autofarbchanger

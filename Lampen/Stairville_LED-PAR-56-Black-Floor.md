@@ -20,3 +20,16 @@
 - Abstrahlwinkel: ca. 45°
 
 ## Kanäle
+
+1. Mode:
+   - 000 - 063: Blackout / Colour Mixing CH2 - CH4
+   - 064 - 127: 7 Farb-Fades
+   - 128 - 191: 7 Farb-Wechsel
+   - 192 - 255: 3 Farb-Wechsel
+2. Red
+3. Green
+4. Blue
+5. Speed:
+   - 000 - 010: standard
+   - 011 - 100: hoch bis niedrig
+   - 151 - 255: über das Gerät (Musik oder Regler)

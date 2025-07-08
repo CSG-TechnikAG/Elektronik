@@ -22,7 +22,7 @@
 
 ## Kanäle
 
-1. Macro:
+1. Mode:
    - 000 - 010: Blackout / Colour Mixing CH5 - CH8
    - 011 - 050: Static Color (from CH2)
    - 051 - 100: Jump (from CH2 + CH3)
@@ -49,7 +49,7 @@
    - 190 - 199: Green + Blue + White
    - 200 - 209: Red + Green + Blue
    - 210 - 255: Red + Green + Blue + White
-3. Speed (for CH2)
+3. Speed (niedrig zu hoch) (for CH2)
 4. Master Dimmer (for CH5 - CH8)
 5. Red
 6. Green
