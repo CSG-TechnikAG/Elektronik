@@ -39,14 +39,21 @@
 11. White with temperature:
    - 000 - 035: Off
    - 036 - 055: 3200 K
-   - ...
+   - 056 - 075: 3400 K
+   - 076 - 095: 4200 K
+   - 096 - 115: 4900 K
+   - 116 - 135: 5600 K
+   - 136 - 175: 6500 K
+   - 176 - 195: 7200 K
+   - 196 - 215: 8000 K
+   - 216 - 235: 8500 K
    - 236 - 255: 10000 K
 12. Konstante Farbe:
    - 000 - 014: Dunkel
    - 015 - 255: 28 vorprogrammierte Farben
 13. Strobe:
    - 000 - 009: Aus
-   - 010 - 140: Geschwindigkeit (niedrig zu hoch)
+   - 010 - 140: Geschwindigkeit ansteigend
    - 141 - 255: Geschwindigkeit zufällig
 14. Besondere Funktionen:
    - 000 - 099: Ohne
