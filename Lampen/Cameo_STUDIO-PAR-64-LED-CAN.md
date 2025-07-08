@@ -14,7 +14,7 @@
 - Gewicht: ? kg
 - Abmessungen (B x H x T): ? x ? x ? mm
 
-## Spezi-Fisch
+## SpeziFisch
 
 - 12 x 12W 6in1 LEDs
 - Farbspektrum RGB + Weiß + Amber + UV
