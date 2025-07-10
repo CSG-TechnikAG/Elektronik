@@ -25,7 +25,7 @@
 
 ## Kanäle
 
-### 2-Kanal-DMX-Modus
+### 2-Kanal-DMX Modus
 
 1. Dimmer
 2. Farben
@@ -45,7 +45,7 @@
    - 221 - 237 kaltes Weiß
    - 238 - 255 Warmes Weiß
 
-### 3-Kanal-DMX-Modus
+### 3-Kanal-DMX Modus 1
 
 1. Dimmer
 2. Stroboskop
@@ -70,7 +70,21 @@
    - 151 - 220 Farbübergang (Geschwindigkeit ansteigend)
    - 221 - 255 Musiksteuerung
 
-### 9-Kanal-DMX-Modus
+### 3-Kanal-DMX Modus
+
+1. Rot
+2. Grün
+3. Blau
+
+### 6-Kanal-DMX Modus
+1. Rot
+2. Grün
+3. Blau
+4. Weiß
+5. Bernstein
+6. UV
+
+### 9-Kanal-DMX Modus
 
 1. Master Dimmer
 2. Stroboscope
