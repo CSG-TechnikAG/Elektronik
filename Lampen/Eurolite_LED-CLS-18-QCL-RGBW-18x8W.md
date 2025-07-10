@@ -22,6 +22,40 @@
 
 ## Kanäle
 
+### 4-Kanal-DMX Modus
+1. Rot
+2. Grün
+3. Blau
+4. Weiß
+
+### 6-Kanal-DMX Modus
+1. Rot
+2. Grün
+3. Blau
+4. Weiß
+5. Dimmer
+6. Musik und Stroboskop
+ - 000 - 000 Keine Funktion
+ - 001 - 005 Musikgesteuert (15 Farben)
+ - 006 - 010 Keine Funktion
+ - 011 - 255 Stroboskop (zunehmend)
+
+### 12-Kanal-DMX Modus
+1. Rot (Links)
+2. Grün (Links)
+3. Blau (Links)
+4. Weiß (Links)
+5. Rot (Mitte)
+6. Grün (Mitte)
+7. Blau (Mitte)
+8. Weiß (Mitte)
+9. Rot (Rechts)
+10. Grün (Rechts)
+11. Blau (Rechts)
+12. Weiß (Rechts)
+
+### 15-Kanal-DMX Modus
+
 1. Colour Macros:
    - 000 - 019: Blackout / Colour Mixing CH4 - CH15
    - 020 - 029: R
