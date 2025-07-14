@@ -23,12 +23,14 @@
 ## Kanäle
 
 ### 4-Kanal-DMX Modus
+
 1. Rot
 2. Grün
 3. Blau
 4. Weiß
 
 ### 6-Kanal-DMX Modus
+
 1. Rot
 2. Grün
 3. Blau
@@ -41,6 +43,7 @@
  - 011 - 255 Stroboskop (zunehmend)
 
 ### 12-Kanal-DMX Modus
+
 1. Rot (Links)
 2. Grün (Links)
 3. Blau (Links)
