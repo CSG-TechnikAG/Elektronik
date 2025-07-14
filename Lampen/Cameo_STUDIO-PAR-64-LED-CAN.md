@@ -77,6 +77,7 @@
 3. Blau
 
 ### 6-Kanal-DMX Modus
+
 1. Rot
 2. Grün
 3. Blau
