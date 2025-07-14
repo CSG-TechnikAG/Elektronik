@@ -70,7 +70,7 @@
    - 151 - 220 Farbübergang (Geschwindigkeit ansteigend)
    - 221 - 255 Musiksteuerung
 
-### 3-Kanal-DMX Modus
+### 3-Kanal-DMX Modus 2
 
 1. Rot
 2. Grün
