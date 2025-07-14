@@ -37,10 +37,10 @@
 4. Weiß
 5. Dimmer
 6. Musik und Stroboskop
- - 000 - 000 Keine Funktion
- - 001 - 005 Musikgesteuert (15 Farben)
- - 006 - 010 Keine Funktion
- - 011 - 255 Stroboskop (zunehmend)
+   - 000 - 000 Keine Funktion
+   - 001 - 005 Musikgesteuert (15 Farben)
+   - 006 - 010 Keine Funktion
+   - 011 - 255 Stroboskop (zunehmend)
 
 ### 12-Kanal-DMX Modus
 
