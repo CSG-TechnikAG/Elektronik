@@ -12,12 +12,12 @@
 - Strom Eingang: Kaltgerätekabel
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: 2,0 kg
-- Abstrahlwinkel: 140°
 - Abmessungen (B x H x T): 190 x 258 x 182 mm
 
 ## SpeziFisch
 
 - Leuchtmittel: 4x 3 W RGBW-LEDs, 16 weiße LEDs
+- Abstrahlwinkel: 140°
 - Schutzart: IP20
 - inklusive IR Fernbedienung zur Steuerung der wichtigsten Funktionen
 

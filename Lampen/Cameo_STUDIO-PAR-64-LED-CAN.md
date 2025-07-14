@@ -2,8 +2,8 @@
 
 ## Generell
 
-- Leistungsaufnahme: 55 W
-- Leistung: ? W
+- Leistungsaufnahme: 55? W
+- Leistung: 144? W
 - Ansteuerung
   - DMX 9 Kanäle (optional 2, 3, 3, 6) (XLR 3-Pin)
   - Master / Slave

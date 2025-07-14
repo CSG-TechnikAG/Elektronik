@@ -11,7 +11,7 @@
 - Strom Eingang: Festinstalliert
 - Lichtleistung: ? Lux @ 1 m
 - Gewicht: 1,4 kg
-- Abmessungen (? x ? x ?): 325 x 236 x 223 mm
+- Abmessungen (H x T x B): 325 x 236 x 223 mm 
 
 ## SpeziFisch
 

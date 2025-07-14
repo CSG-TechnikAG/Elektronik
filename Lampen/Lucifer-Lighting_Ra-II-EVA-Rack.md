@@ -8,7 +8,7 @@
   - DMX 6 Kanäle (XLR 5-Pin)
 - Strom Eingang: 32A Starkstrom
 - Gewicht: 14 kg
-- Abmessungen (B x H x T): 19" x 3HE x 320 mm = 483 x 132 x 320
+- Abmessungen (B x H x T): 19" x 3HE x 320 mm = 483 x 132 x 320 mm
 
 ## SpeziFisch
 
