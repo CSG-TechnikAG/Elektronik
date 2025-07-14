@@ -12,3 +12,4 @@
 - "Moving Head (MH) Spot": Varytec Hero Spot 90
 - "Moving Head (MH) Beam": Stairville MH-100 Beam 36x3W LED
 - "Moving Head (MH) Wash": Stairville MH-110 Wash LED Moving Head
+- "Mischpult" / "X 32": Behringer X 32
