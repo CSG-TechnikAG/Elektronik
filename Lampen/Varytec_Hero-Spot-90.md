@@ -143,4 +143,4 @@
    - 215 - 240 Pan-Tilt-Automatikprogramm 9
    - 241 - 255 Musiksteuerung Pan und Tilt
 16. Reset
-  - 250 - 255 Reset (nach 10 Sekunden)
+  - 250 - 255 Reset (nach 10 Sekunden Senden)
