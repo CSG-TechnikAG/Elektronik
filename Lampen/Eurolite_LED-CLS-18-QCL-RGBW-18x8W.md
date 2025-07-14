@@ -81,7 +81,7 @@
    - 220 - 229: PR. 7
    - 230 - 239: 4 Farben musikgesteuert
    - 240 - 255: 15 Farben musikgesteuert
-2. Master Dimmer
+2. Master Dimmer (wenn CH1 000 - 169), Geschwindigkeit (wenn CH1 170 - 229), Empfindlichkeit (wenn CH1 230 - 255)
 3. Flash
 4. Rot1
 5. Grün1
