@@ -2,8 +2,11 @@
 
 ## Allgemein
 
-- Gewicht: 20,0 kg
-- Abmessungen (B x T x H): 900 x 550 x 230 mm
+- Leistungsaufnahme: 120 W
+- Leistung: ? W
+- Strom Eingang: Kaltgerätekabel
+- Gewicht: 20,6 kg
+- Abmessungen (B x T x H): 900 x 528 x 200 mm
 
 ## Anschlüsse
 
