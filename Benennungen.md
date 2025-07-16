@@ -13,3 +13,7 @@
 - "Moving Head (MH) Beam": Stairville MH-100 Beam 36x3W LED
 - "Moving Head (MH) Wash": Stairville MH-110 Wash LED Moving Head
 - "Mischpult" / "X 32": Behringer X 32
+- "Lautsprecher": dB Technologies INGENIA IG3T
+- "Bose Lautsprecher": Bose F1 Model 812
+- "Monitor Lautsprecher": the box MA120 MK II
+ 
