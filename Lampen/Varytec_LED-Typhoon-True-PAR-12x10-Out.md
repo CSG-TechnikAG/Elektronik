@@ -1,11 +1,11 @@
-# Varytec Colors NerveStrobe HP
+# Varytec LED Typhoon True PAR 12x10 Out
 
 ## Generell
 
 - Leistungsaufnahme: ? W
 - Leistung: ? W
 - Ansteuerung
-  - DMX 68 Kanäle (optional 3, 6, 12, 16, 56) (XLR ?-Pin)
+  - DMX 13 Kanäle (optional 3, 6, 8, 10) (XLR 5-Pin)
   - Master / Slave?
   - automatische Programme?
   - Musiksteuerung?
@@ -24,10 +24,8 @@
 
 ### 6-Kanal-DMX Modus
 
-### 12-Kanal-DMX Modus
+### 8-Kanal-DMX Modus
 
-### 16-Kanal-DMX Modus
+### 10-Kanal-DMX Modus
 
-### 56-Kanal-DMX Modus
-
-### 68-Kanal-DMX Modus
+### 13-Kanal-DMX Modus

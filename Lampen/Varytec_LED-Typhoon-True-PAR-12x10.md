@@ -1,1 +1,0 @@
-# Varytec LED Typhoon True PAR 12x10

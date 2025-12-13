@@ -16,4 +16,5 @@
 - "Lautsprecher": dB Technologies INGENIA IG3T
 - "Bose Lautsprecher": Bose F1 Model 812
 - "Monitor Lautsprecher": the box MA120 MK II
- 
+- "LED Typhoon": Varytec LED Typhoon True PAR 12x10 Out
+- "NerveStrobe": Varytec Colors NerveStrobe HP
